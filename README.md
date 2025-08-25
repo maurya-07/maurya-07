@@ -36,18 +36,6 @@ I build clean, fast web apps and enjoy learning in public.
 
 ---
 
-## 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-## 🌟 Featured Projects
-- [News Website](https://github.com/yourusername/your-news-repo) — articles, images, videos
-- [Admin Dashboard](https://github.com/yourusername/your-dashboard-repo) — users, posts, analytics
-
----
-
 <!-- Optional: contribution snake (enable GitHub Action on your repo if you want it animated) -->
 ![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
 
