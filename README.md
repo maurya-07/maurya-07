@@ -33,9 +33,3 @@ I build clean, fast web apps and enjoy learning in public.
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
-
----
-
-<!-- Optional: contribution snake (enable GitHub Action on your repo if you want it animated) -->
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
-
