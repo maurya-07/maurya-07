@@ -1,10 +1,9 @@
-# Hi 👋, I'm Akash Maurya
+# Hi 👋, I'm Vishal Maurya
 
 I build clean, fast web apps and enjoy learning in public.
 
 - 🌱 Currently learning: **React, Firebase, and full-stack basics**
 - 🔭 Working on: **News website, Admin dashboard**
-- 📫 Reach me: **youremail@example.com**
 - ⚡ Fun: I tweak UI till it feels right
 
 ---
@@ -46,12 +45,6 @@ I build clean, fast web apps and enjoy learning in public.
 ## 🌟 Featured Projects
 - [News Website](https://github.com/yourusername/your-news-repo) — articles, images, videos
 - [Admin Dashboard](https://github.com/yourusername/your-dashboard-repo) — users, posts, analytics
-
----
-
-## 🤝 Connect
-[![X](https://img.shields.io/badge/Follow_on_X-000?logo=x&logoColor=fff)](https://x.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourhandle)
 
 ---
 
