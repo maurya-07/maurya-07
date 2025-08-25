@@ -1,13 +1,8 @@
 # Hi there, I'm Vishal Maurya 👋  
 
-💻 Web Developer | React & Firebase Enthusiast  
-🌍 From India | Always learning & building  
-
-- 🚀 Currently working on: **News Website & Admin Dashboard**  
-- 🌱 Learning: **React, Firebase, Tailwind, MongoDB**  
-- 📫 How to reach me: [X](https://x.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourhandle)  
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-- 📄 Resume: [resume.yourwebsite.com](https://resume.yourwebsite.com)  
+💻 Web Developer
+ 
+- 🌐 Portfolio: (https://vishalmaurya07.netlify.app/)  
 
 ---
 
