@@ -2,8 +2,9 @@
 <br/><br/>
 👋 I’m a **web developer** passionate about building clean, functional, and creative web projects.
 <br/><br/>
-🪲 I also enjoy creating **browser extensions** and automation tools.
-<br/>
+🐸 I also enjoy creating **browser extensions** and automation tools.
+
+<hr/>
 
 🦀 Currently working on:
 
