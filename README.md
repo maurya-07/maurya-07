@@ -9,9 +9,11 @@
 
 🚀 I enjoy working with:
 
-- 💻 **Web development & Web scraping**
+- 👨‍💻 **Web development & Web scraping**
 - 🪼 **Extension development**
 - 🤖 **Bot-based automation**
+- 🖥️ An **Admin Dashboard**
+- 🦆 **Full-Stack Website**
 
 <hr/>
  
