@@ -6,14 +6,14 @@
 <br/>
 
 - 🌱 I’m currently learning **Java**
+- 🖥️ An **Admin Dashboard**
+- 🦆 **Full-Stack Website**
 
 🚀 I enjoy working with:
 
 - 👨‍💻 **Web development & Web scraping**
 - 🪼 **Extension development**
 - 🤖 **Bot-based automation**
-- 🖥️ An **Admin Dashboard**
-- 🦆 **Full-Stack Website**
 
 <hr/>
  
