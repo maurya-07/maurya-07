@@ -1,6 +1,9 @@
-👋 Hi, I'm **Vishal Maurya**
+🙋‍♂️ I'm **Vishal Maurya**, but people usually call me **Maurya**.
+<br/><br/>
+👋 I’m a **web developer** passionate about building clean, functional, and creative web projects.
 <br/>
-🙋‍♂️ People usually call me **Maurya**.  
+🪲 I also enjoy creating **browser extensions** and automation tools.
+<br/>
 
 - 🌱 I’m currently learning **Java**
 
@@ -8,22 +11,25 @@
 
 - 💻 **Web development & Web scraping**
 - 🪼 **Extension development**
-- 🤖 Bot-based automation
+- 🤖 **Bot-based automation**
 
+<hr/>
+ 
 📁 **Check out my:**
 
-- <a href="https://vishalmaurya07.netlify.app/">My website portfolio</a>
+- 🌐 [Portfolio Website](https://vishalmaurya07.netlify.app/)
 
-<div align="center"> 
+<hr/>
+ 
+🤝 **Let's Connect**
+
+<div> 
   <a href="https://www.linkedin.com/in/vishal-maurya-vm07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://vishalmaurya07.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h3 align="center">🔥 Languages,Frameworks,Tools 🔥</h2>
 <br/>
