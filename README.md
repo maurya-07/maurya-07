@@ -1,21 +1,25 @@
-![MasterHead](https://playerofcode.in/assets/img/slider1.jpg)
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Maurya!;" />
-</h1>
-
-<h3 align="center">My name is Vishal Maurya, but people call me Maurya</h3>
+👋 Hi, I'm **Vishal Maurya**
+<br/>
+🙋‍♂️ People usually call me **Maurya**.  
 
 - 🌱 I’m currently learning **Java**
 
+🚀 I enjoy working with:
 
- 
+- 💻 **Web development & Web scraping**
+- 🪼 **Extension development**
+- 🤖 Bot-based automation
+
+📁 **Check out my:**
+
+- <a href="https://vishalmaurya07.netlify.app/">My website portfolio</a>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/vishal-maurya-vm07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://vishalmaurya07.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
