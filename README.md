@@ -2,17 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Maurya!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<br/>
+- 🌱 I’m currently learning **Java**
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+- 👨‍💻 All of my projects are available at [vishalmaurya07.netlify.app](vishalmaurya07.netlify.app)
 
- </div>
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **https://www.linkedin.com/in/vishal-maurya-vm07**
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/vishal-maurya-vm07" target="_blank">
