@@ -42,7 +42,7 @@
 </div>
 
 <hr/>
- 
+
 <h3 align="center">🔥 Languages,Frameworks,Tools</h2>
 <br/>
 <div align="center">
@@ -50,5 +50,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,mysql,scss,postman,vercel,vite,svg" /><br>
 </div>
 
-<br/>
+<hr/>
+
+<div align="center">
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&locale=en" alt="maurya-07" /></p>
+</div>
+
 <hr/>
