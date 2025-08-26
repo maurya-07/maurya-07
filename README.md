@@ -1,3 +1,5 @@
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1696253326872/aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa.gif?auto=format,compress&gif-q=60&format=webm)
+
 🙋‍♂️ I'm **Vishal Maurya**, but people usually call me **Maurya**.
 <br/><br/>
 👋 I’m a **web developer** passionate about building clean, functional, and creative web projects.
