@@ -52,13 +52,6 @@
 
 ---
 
-<h3 align="center">📈 Activity Graph</h3>
-<br/>
-
-[![Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maurya-07&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <h3 align="center">🎗️ GitHub Stats</h3>
 <br/>
 <div align="center">
@@ -86,5 +79,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&layout=compact&hide_border=false&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_color=58a6ff" width="50%" />
 
 </div>
+
+---
+
+<h3 align="center">📈 Activity Graph</h3>
+<br/>
+
+[![Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maurya-07&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
