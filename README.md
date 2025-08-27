@@ -11,7 +11,7 @@
 <br/><br/>
 🐸 I also enjoy creating **browser extensions** and automation tools.
 
-<hr/>
+---
 
 🦀 Currently working on:
 
@@ -25,13 +25,13 @@
 - 🪼 **Extension development**
 - 🤖 **Bot-based automation**
 
-<hr/>
+---
  
 📁 **Check out my:**
 
 - 🌐 [Portfolio Website](https://vishalmaurya07.netlify.app/)
 
-<hr/>
+---
  
 🤝 **Let's Connect**
 
@@ -41,25 +41,42 @@
   </a>
 </div>
 
-<hr/>
+---
 
 <h3 align="center">🔥 Languages,Frameworks,Tools</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,netlify,npm,windows" />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,mysql,scss,postman,vercel,vite,svg" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,mysql,scss,postman,vercel,vite,svg" />
 </div>
 
-<hr/>
+---
 
 <h3 align="center">🎗️ GitHub Stats</h3>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurya-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-
-  <br/>
-
-  ![](https://nirzak-streak-stats.vercel.app/?user=maurya-07&theme=dark&hide_border=false)
 </div>
 
-<hr/>
+<h3 align="center">🔥 Streak Stats</h3>
+<br/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f78166&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="70%" />
+</div>
+
+---
+
+<h3 align="center">📈 Activity Graph</h3>
+<br/>
+
+[![Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maurya-07&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<h3 align="center">🎨 Alternative Compact Version</h3>
+<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="50%" />
+</div>
+
+---
