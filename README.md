@@ -63,22 +63,27 @@
 <br/>
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_color=58a6ff" width="50%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_color=58a6ff" width="100%" />
+</div>
 
-</td>
-<td>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f78166&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="100%" />
+<h3 align="center">🐬 Streak Stats</h3>
+<br/>
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f78166&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="50%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&layout=compact&hide_border=false&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_color=58a6ff" width="45%" />
+</div>
+
+---
+
+<h3 align="center">✨ GitHub Stats</h3>
+<br/>
+<div align="center">
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&layout=compact&hide_border=false&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_color=58a6ff" width="50%" />
 
 </div>
 
