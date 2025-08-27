@@ -79,7 +79,7 @@
 
 ---
 
-<h3 align="center">✨ GitHub Stats</h3>
+<h3 align="center">✨ Languages Stats</h3>
 <br/>
 <div align="center">
     
