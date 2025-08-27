@@ -43,17 +43,23 @@
 
 <hr/>
 
-<h3 align="center">🔥 Languages,Frameworks,Tools</h2>
+<h3 align="center">🔥 Languages,Frameworks,Tools</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,netlify,npm,windows" />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,mysql,scss,postman,vercel,vite,svg" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,mysql,scss,postman,vercel,vite,svg" />
 </div>
 
 <hr/>
 
+<h3 align="center">🎗️ GitHub Stats</h3>
+<br/>
 <div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&locale=en" alt="maurya-07" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maurya-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+  <br/>
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=maurya-07&theme=dark&hide_border=false)
 </div>
 
 <hr/>
