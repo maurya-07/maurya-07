@@ -16,12 +16,12 @@
 🦀 Currently working on:
 
 - 🌱 I’m currently learning **Java**
-- 🖥️ An **Admin Dashboard**
-- 🦆 **Full-Stack Website**
+- 🖥️ I'm building an **Admin Dashboard**
+- 🦆 I'm developing a **Full-Stack Website**
 
 🚀 I enjoy working with:
 
-- 👨‍💻 **Web development & Web scraping**
+- 👨‍💻 **Web development**
 - 🪼 **Extension development**
 - 🤖 **Bot-based automation**
 
