@@ -59,7 +59,7 @@
 <br/>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_color=58a6ff" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_color=58a6ff" />
 
 </div>
 
