@@ -18,7 +18,7 @@
 
 🦀 Currently working on:
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **Next JS** & **SQL**
 - 🖥️ I'm building an **Admin Dashboard**
 - 🦆 I'm developing a **Full-Stack Website**
 
