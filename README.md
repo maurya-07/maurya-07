@@ -1,6 +1,4 @@
-<div align="center"> 
-<img src="https://www.gifcen.com/wp-content/uploads/2023/11/iron-man-gif-4.gif" width="100%" />
-</div>
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1696253326872/aab6d8e2-88bf-4d56-a2ab-4ce46f2cdcfa.gif?auto=format,compress&gif-q=60&format=webm)
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Maurya!;" />
