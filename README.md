@@ -80,7 +80,7 @@
 <br/>
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f78166&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f85149&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_)
 
 </div>
 
