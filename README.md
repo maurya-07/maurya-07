@@ -70,7 +70,7 @@
 <br/>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurya-07&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_color=58a6ff&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maurya-07&show_icons=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_color=58a6ff)
 
 </div>
 
@@ -80,7 +80,7 @@
 <br/>
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f85149&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=maurya-07&theme=dark&background=0d1117&border=58a6ff&stroke=c9d1d9&ring=58a6ff&fire=f85149&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&cache_seconds=300)
 
 </div>
 
