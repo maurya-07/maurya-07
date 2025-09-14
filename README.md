@@ -60,7 +60,7 @@
 <br/>
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&layout=compact&hide_border=false&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_color=58a6ff" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&layout=donut&theme=github_dark&langs_count=8)
 
 </div>
 
