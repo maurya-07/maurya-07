@@ -60,7 +60,7 @@
 <br/>
 <div align="center">
     
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-07&layout=donut&theme=github_dark&langs_count=8&hide_border=false&border_color=58a6ff&border)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurya-07&theme=github_dark)
 
 </div>
 
